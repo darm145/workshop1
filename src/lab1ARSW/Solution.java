@@ -7,8 +7,8 @@ public class Solution {
 
     static boolean isAnagram(String a, String b) {
     	char[] s1,s2;
-    	s1=a.toCharArray();
-    	s2=b.toCharArray();
+    	s1=a.toLowerCase().toCharArray();
+    	s2=b.toLowerCase().toCharArray();
     	if(s1.length!=s2.length) {
     		return false;
     	}
