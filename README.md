@@ -17,5 +17,10 @@ specifying the branch we are working on, in this case master,this is useful when
 ## git clone <repository>
 ## Answer: What is the purpose of this command?
   git clone is used to download a copy of the repository in order to work on it. <repository> is where we put the URL of the repository, also with the repository we can make changes if we are collaborators.
-  
+ 
+## screenshot 
 ![captura](captura.PNG)
+
+## git pull origin master
+## Answer: What that command does?
+git pull origin master is usted to download the changes of the remote repository into the local repository and updating the files to the lastest version of the project
