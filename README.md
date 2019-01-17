@@ -18,3 +18,4 @@ specifying the branch we are working on, in this case master,this is useful when
 ## Answer: What is the purpose of this command?
   git clone is used to download a copy of the repository in order to work on it. <repository> is where we put the URL of the repository, also with the repository we can make changes if we are collaborators.
   
+![captura](captura.PNG)
